@@ -1,4 +1,4 @@
-# bamboo
+# Bamboo
 
 A new Flutter project.
 
